@@ -1,0 +1,76 @@
+{
+  "Products": [
+    {
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECKED SHIRT",
+      "price": 110,
+      "slashPrice": 100
+    },
+    {
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 99,
+      "slashPrice": 88
+    },
+    {
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 99,
+      "slashPrice": 90
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MRNDbTbpnViUWsJCThPrRnF7_iQQiWKu5w&usqp=CAU",
+      "name": "BLUE PLAIN SHIRT",
+      "price": 499,
+      "slashPrice": 359
+    },
+    {
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "RETRO GLAM KEFIAH",
+      "price": 499,
+      "slashPrice": 299
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmnosoYJ3waKxT3jytsQSZw2f1CUYQvEjtkg&usqp=CAU",
+      "name": "GREEN T-SHIRT",
+      "price": 1990,
+      "slashPrice": 1800
+    },
+    {
+      "imgUrl": "https://bgwears.com/upl/2022/03/c46d32cd-469a-49a9-b175-7362171d29a7_CustomShortSleeveT-Shirt.jpeg",
+      "name": "T-SHIRT COMBO",
+      "price": 1400,
+      "slashPrice": 800
+    },
+    {
+      "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2020/11/UW/VB/DY/3074968/mens-polo-red-t-shirt-500x500-250x250.jpg",
+      "name": "RED T-SHIRT",
+      "price": 200,
+      "slashPrice": 180
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfkdoXc1y1axZYSY10RSydGM5RcnIXw-ULHQTtUEnny46XalsgykfSVo1tj-PHFS6kXg&usqp=CAU",
+      "name": "BLUE SHIRT",
+      "price": 1200,
+      "slashPrice": 899
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAcknsOK7iXr-ajKHjTnf-l7c0ReyfFE7hVqquEsE255p9oAMTuvP73YRGsWEDPoDt_s&usqp=CAU",
+      "name": "GREEN STRIPED SHIRT",
+      "price": 200,
+      "slashPrice": 180
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzH95XfhmclX7LUZu2JQoy4-OJRYXHreOOv0N1u-theKrcx7dNSio3cB8paJKLnN98Mw&usqp=CAU",
+      "name": "GREEN SHIRT",
+      "price": 1400,
+      "slashPrice": 1099
+    },
+    {
+      "imgUrl": "https://media.istockphoto.com/id/488160041/photo/mens-shirt.jpg?s=612x612&w=0&k=20&c=xVZjKAUJecIpYc_fKRz_EB8HuRmXCOOPOtZ-ST6eFvQ=",
+      "name": "PLAIN SHIRT",
+      "price": 1120,
+      "slashPrice": 999
+    }
+  ]
+}
